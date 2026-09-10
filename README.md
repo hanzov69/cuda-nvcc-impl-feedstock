@@ -81,7 +81,7 @@ Home: https://developer.nvidia.com/cuda-toolkit
 
 Package license: [LicenseRef-NVIDIA-End-User-License-Agreement](https://docs.nvidia.com/cuda/eula/index.html)
 
-Summary: Architecture independent part of CUDA NVCC compiler.
+Summary: Host architecture-specific CUDA NVCC compiler tools.
 
 Documentation: https://docs.nvidia.com/cuda/index.html
 
