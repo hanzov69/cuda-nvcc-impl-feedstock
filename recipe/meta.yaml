@@ -31,19 +31,19 @@
 
 {% set crt_sha256 = "c969e61ded12dbf0cf20ace72867f1622ec0e8ea1e1d305e27761012025f7aaa" %}  # [linux64]
 {% set crt_sha256 = "0358db52257885611664240e030e45528f052aa1360c886f55dbaf2b2d61f87d" %}  # [aarch64 and arm_variant_type == "sbsa"]
-{% set crt_sha256 = "3fa09349f4af5a39ffb806ce48db9c406f81fcd3366e066fdca6eba97927764a" %}  # [win and not arm64]
+{% set crt_sha256 = "a38e3aa75e259128a1c7fb46e706182e4babca407cd3f3c447d21ab7fb14c7fd" %}  # [win and not arm64]
 {% set crt_sha256 = "3fa09349f4af5a39ffb806ce48db9c406f81fcd3366e066fdca6eba97927764a" %}  # [win and arm64]
 #{% set crt_sha256 = "2eb267e6ebbe17e5ebc593bae8b83fa927c3e53cbf43ef5c614eff6c94053d10" %}  # [aarch64 and arm_variant_type == "tegra"]
 
 {% set nvvm_sha256 = "0e619cf3d5b27f7c812665599ca9761fc296e56129b24a85d822a5d8a1a3bd75" %}  # [linux64]
 {% set nvvm_sha256 = "483085a4f52d272ea2c5a6cb4727b24efc2cecab4c4df99e80dfc6548e5b7929" %}  # [aarch64 and arm_variant_type == "sbsa"]
-{% set nvvm_sha256 = "3bd0c42bca5f16a6055b32a10535e48c23e8701eb9c9fbb7e6eff655841cfe9d" %}  # [win and not arm64]
+{% set nvvm_sha256 = "64fa39ad6332d6c40a02115d64827272f6befbc86e50568254f44d37d924e10b" %}  # [win and not arm64]
 {% set nvvm_sha256 = "3bd0c42bca5f16a6055b32a10535e48c23e8701eb9c9fbb7e6eff655841cfe9d" %}  # [win and arm64]
 #{% set nvvm_sha256 = "2eb267e6ebbe17e5ebc593bae8b83fa927c3e53cbf43ef5c614eff6c94053d10" %}  # [aarch64 and arm_variant_type == "tegra"]
 
 {% set libnvptxcompiler_sha256 = "6b40eb5833c745568f575633381e1fec369f6fa1313b3efe3dd7783f353819cd" %}  # [linux64]
 {% set libnvptxcompiler_sha256 = "e19aa8b63d6e6a90eea08e9801e7f0aef0c48bd81377b3e43c604ee84937f4fe" %}  # [aarch64 and arm_variant_type == "sbsa"]
-{% set libnvptxcompiler_sha256 = "fdc12e1e583f8058edc7960b137cf9acabe8f8bee655b972a34204d9c699a1e2" %}  # [win and not arm64]
+{% set libnvptxcompiler_sha256 = "1e9d858c2f16e18b8399fbb6f762560d3e8bd30b36dfd15c968d3cd59736e4e7" %}  # [win and not arm64]
 {% set libnvptxcompiler_sha256 = "fdc12e1e583f8058edc7960b137cf9acabe8f8bee655b972a34204d9c699a1e2" %}  # [win and arm64]
 #{% set libnvptxcompiler_sha256 = "2eb267e6ebbe17e5ebc593bae8b83fa927c3e53cbf43ef5c614eff6c94053d10" %}  # [aarch64 and arm_variant_type == "tegra"]
 
