@@ -25,7 +25,7 @@
 
 {% set nvcc_sha256 = "60998f40cc9df5826b2a846e2dcc328133fbc5ef539398ce0a21cf5dcac7193d" %}  # [linux64]
 {% set nvcc_sha256 = "8aebd451afb3984bc0019e803ae8a01a3837b7c69f36db779a7ce77e70831f5f" %}  # [aarch64 and arm_variant_type == "sbsa"]
-{% set nvcc_sha256 = "8ca6e46052dba9e1a3e72d071ce83079e7edf70020f94eac54de55689b0d2141" %}  # [win and not arm64]
+{% set nvcc_sha256 = "23950047aa5405993129a982a99924b4e6d5eb9bc312300030f3afd9b3b49ea4" %}  # [win and not arm64]
 {% set nvcc_sha256 = "8ca6e46052dba9e1a3e72d071ce83079e7edf70020f94eac54de55689b0d2141" %}  # [win and arm64]
 #{% set nvcc_sha256 = "2eb267e6ebbe17e5ebc593bae8b83fa927c3e53cbf43ef5c614eff6c94053d10" %}  # [aarch64 and arm_variant_type == "tegra"]
 
